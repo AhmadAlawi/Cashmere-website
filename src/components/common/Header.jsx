@@ -61,11 +61,11 @@ const Header = ({ HeaderTwo, headerEight = false,homeNine}) => {
                         <li>
                           <Link href="/about">About</Link>
                         </li>
-                        <li className="has-dropdown megamenu-full">
+                        <li className="has-dropdown">
                           <a href="#">Projects</a>
-                          <ul className="megamenu">
+                          <ul className="submenu">
                             <li>
-                              <a href="#" className="megamenu-title">Resume Builder</a>
+                              <a href="http://resume.cashmere-solutions.com" className="megamenu-title">Resume Builder</a>
 {/* 
                               <ul>
                                 <li><Link href="/about">About</Link></li>
@@ -80,7 +80,7 @@ const Header = ({ HeaderTwo, headerEight = false,homeNine}) => {
                               </ul> */}
                             </li>
                             <li>
-                              <a href="#" className="megamenu-title">Virtual Business Card</a>
+                              <a href="http://vbc.cashmere-solutions.com" className="megamenu-title">Virtual Business Card</a>
 
                               {/* <ul>
                                 <li><Link href="/portfolio">Portfolio</Link></li>
@@ -125,8 +125,12 @@ const Header = ({ HeaderTwo, headerEight = false,homeNine}) => {
                         <li className="has-dropdown">
                           <Link href="/services">Services</Link>
                           <ul className="submenu">
-                            <li><Link href="/services">Services Page</Link></li>
-                            <li><Link href="/service-details">Services Deatils</Link></li>
+                            <li><Link href="/web-dev">Web Development</Link></li>
+                            <li><Link href="/mobile-apps">Mobile Apps</Link></li>
+                            <li><Link href="/desktop-apps">Desktop Apps</Link></li>
+                            <li><Link href="/hosting">Hosting</Link></li>
+                            <li><Link href="/gpu">GPU Render Servers</Link></li>
+                            <li><Link href="/services">More Services</Link></li>
                           </ul>
                         </li>
                         {/* <li className="has-dropdown">
@@ -153,11 +157,11 @@ const Header = ({ HeaderTwo, headerEight = false,homeNine}) => {
                             <i className="fas fa-search"></i>
                           </button>
                         </li>
-                        <li >
+                        {/* <li >
                           <button onClick={() => setShowSidebar(true)} className="info-toggle-btn sidebar-toggle-btn">
                             <i className="fas fa-bars"></i>
                           </button>
-                        </li>
+                        </li> */}
                         <li>
                           {/* dark mode button start  */}
                           <div className="mode-switch-wrapper my_switcher setting-option">
@@ -198,7 +202,7 @@ const Header = ({ HeaderTwo, headerEight = false,homeNine}) => {
                         </ul>
                       </div>
                       <div className="tp-header-btn ml-30 d-none d-xl-block">
-                        <a href="#" className="tp-solid-btn">contact us</a>
+                        <a href="./contact" className="tp-solid-btn">contact us</a>
                       </div>
                     </div>
                   </div>

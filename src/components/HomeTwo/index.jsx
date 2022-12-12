@@ -20,12 +20,12 @@ const HomeTwoMain = () => {
       <ServicesTwo/>
       <AboutTwo/>
       <CounterTwo/>
-      <PortfolioTwo/>
+      {/* <PortfolioTwo/> */}
       <TestimonialTwo/>
       <BrandArea hideTopBar={true} brand="-2" />
       {/* <TeamTwo/> */}
       <CtaTwo/>
-      <BlogTwo/>
+      {/* <BlogTwo/> */}
       <FooterTwo/>
     </>
   );

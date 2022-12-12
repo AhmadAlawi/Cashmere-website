@@ -10,7 +10,7 @@ const ServicesTwo = () => {
             <div className="col-xl-12">
               <div className="tp-section-title text-center">
                 <span className="tp-sub-title-2 mb-15">What we do</span>
-                <h2 className="tp-title">Our Service  Area</h2>
+                <h2 className="tp-title">Our Service Area</h2>
               </div>
             </div>
           </div>

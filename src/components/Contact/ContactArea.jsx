@@ -84,8 +84,8 @@ const ContactArea = () => {
                       </svg>
                     </div>
                     <div className="contact__info-text">
-                      <h4>New York Office</h4>
-                      <p><a target="_blank" rel="noreferrer" href="https://www.google.com/maps/place/Dhaka/@23.7806207,90.3492859,12z/data=!3m1!4b1!4m5!3m4!1s0x3755b8b087026b81:0x8fa563bbdd5904c2!8m2!3d23.8104753!4d90.4119873">Maypole Crescent 70-80 Upper St Norwich NR2 1LT</a></p>
+                      <h4>Amman Office</h4>
+                      <p><a target="_blank" rel="noreferrer" href="https://www.google.com/maps/">Al-Abdali, King Hussien St, 11145 Jordan</a></p>
 
                     </div>
                   </div>
@@ -98,8 +98,8 @@ const ContactArea = () => {
                     </div>
                     <div className="contact__info-text">
                       <h4>Email us directly</h4>
-                      <p><a href="mailto:support@nerox.com">support@nerox.com</a></p>
-                      <p><a href="mailto:info@nerox.com"> info@nerox.com</a></p>
+                      <p><a href="mailto:support@cashmere-solutions.com">support@cashmere-solutions.com</a></p>
+                      <p><a href="mailto:info@cashmere-solutions.com"> info@cashmere-solutions.com</a></p>
                     </div>
                   </div>
                   <div className="contact__info-item d-flex align-items-start mb-35">
@@ -110,8 +110,8 @@ const ContactArea = () => {
                     </div>
                     <div className="contact__info-text">
                       <h4>Phone</h4>
-                      <p><a href="tel:+(426)-742-26-44">+(426) 742 26 44</a></p>
-                      <p><a href="tel:+(224)-762-442-32">+(224) 762 442 32</a></p>
+                      <p><a href="tel:+(962)-7974-2-7574">+(962) 79 74 2 7574</a></p>
+                      {/* <p><a href="tel:+(224)-762-442-32">+(224) 762 442 32</a></p> */}
                     </div>
                   </div>
                   <div className="contact__social pl-30">

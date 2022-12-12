@@ -6,7 +6,7 @@ const HeroSlider = () => {
   const sliderData = [
     {
       id: 1,
-      title: <>Introduce Our Creative <br /> Digital Agency.</>
+      title: <>Introduce Our Creative <br /> Cashmere Solutions.</>
     },
     {
       id: 2,
@@ -38,10 +38,10 @@ const HeroSlider = () => {
                       <SwiperSlide key={item.id}>
                         <div className="tpagency__slider-item tpagency__slider-height text-center d-flex align-items-center" style={{ backgroundImage: 'url(assets/img/slider/slider-img-1.jpg)', backgroundSize: 'cover', backgroundPosition: 'center', backgroundRepeat: 'no-repeat' }}>
                           <div className="tp-agency-slider-inner">
-                            <h2 className="tpagency-title">Introduce Our Creative <br /> Digital Agency.</h2>
+                            <h2 className="tpagency-title">Introduce Our Creative <br /> Cashmere Solutions.</h2>
                             <div className="tpagency-button mt-60">
                               <Link href="/services">
-                                <a className="tp-white-btn">See Nerox Project</a>
+                                <a className="tp-white-btn">Check Our Services</a>
                               </Link>
                             </div>
                           </div>

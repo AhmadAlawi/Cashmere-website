@@ -1,7 +1,9 @@
 import React from 'react';
 import BrandArea from '../common/BrandArea';
 import Breadcrumb from '../common/Breadcrumb';
-import FooterTwo from '../common/Footers/FooterTwo';
+// import FooterTwo from '../common/Footers/FooterTwo';
+import FooterTwo from '../HomeTwo/HomeTwoFooter';
+
 import Header from '../common/Header';
 import TestimonialFour from '../Home-four/TestimonialFour';
 import AboutArea from './AboutArea';
@@ -13,13 +15,13 @@ const index = () => {
   return (
     <>
       <Header/>
-      <Breadcrumb title="ABOUT NEROX" subtitle=" About Us" />
+      <Breadcrumb title="ABOUT US" subtitle=" About Us" />
       <AboutArea/>
       <AboutCounter/>
       <CtaImages/>
       <BrandArea brand="-2" about="about-brand" />
       <TestimonialFour/>
-      <NeroxAwards/>
+      {/* <NeroxAwards/> */}
       <FooterTwo/>
     </>
   );

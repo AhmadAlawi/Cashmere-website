@@ -1,6 +1,6 @@
 import React from 'react';
 import Breadcrumb from '../common/Breadcrumb';
-import FooterTwo from '../common/Footers/FooterTwo';
+import FooterTwo from '../HomeTwo/HomeTwoFooter';
 import Header from '../common/Header';
 import ContactArea from './ContactArea';
 
@@ -13,6 +13,6 @@ const index = () => {
       <FooterTwo/>
     </>
   );
-};
+}; 
 
 export default index;

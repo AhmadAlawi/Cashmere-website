@@ -20,7 +20,7 @@ const ServiceDetailsArea = () => {
           <div className="row">
             <div className="col-xl-12">
               <h4 className="services-d-title mb-25">Website Desing & Development</h4>
-              <p className="services-text mb-25">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate.</p>
+              <p className="services-text mb-25">The concept of web design and development has been around for about as long as websites have existed. It used to have a much simpler definition because website creation used to be a much simpler process.</p>
               <p className="services-text mb-45">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Error sit voluptatem accusantium doloremque,</p>
               <h5 className="services-sm-title mb-25">4 Simple Steps</h5>
               <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,
@@ -32,7 +32,7 @@ const ServiceDetailsArea = () => {
                       <span className="step-number">01</span>
                     </div>
                     <h6 className="step-title mt-40">Step One</h6>
-                    <p>Sed quia non numquam eius <br /> modi tempora incidunt s</p>
+                    <p>Planning <br /> Think of Application</p>
                     <div className="step-item-shape shape-1">
                       <img src="assets/img/shape/arrow-shape-1.png" alt="arrow-shape" />
                     </div>
@@ -45,7 +45,7 @@ const ServiceDetailsArea = () => {
                       <span className="step-number">02</span>
                     </div>
                     <h6 className="step-title mt-40">Step Two</h6>
-                    <p>Sed quia non numquam eius <br /> modi tempora incidunt s</p>
+                    <p>Researching <br /> Investigate & Collect Data</p>
                     <div className="step-item-shape shape-1 d-none d-lg-block">
                       <img src="assets/img/shape/arrow-shape-2.png" alt="arrow-shape" />
                     </div>
@@ -57,7 +57,7 @@ const ServiceDetailsArea = () => {
                       <span className="step-number">03</span>
                     </div>
                     <h6 className="step-title mt-40">Step Three</h6>
-                    <p>Sed quia non numquam eius <br /> modi tempora incidunt s</p>
+                    <p>Development <br /> Start Coding</p>
                     <div className="step-item-shape shape-1">
                       <img src="assets/img/shape/arrow-shape-1.png" alt="arrow-shape" />
                     </div>
@@ -69,7 +69,7 @@ const ServiceDetailsArea = () => {
                       <span className="step-number">04</span>
                     </div>
                     <h6 className="step-title mt-40">Step Four</h6>
-                    <p>Sed quia non numquam eius <br /> modi tempora incidunt s</p>
+                    <p>Deployment <br /> Launch the App</p>
                   </div>
                 </div>
               </div>
