@@ -9,14 +9,14 @@ import Testimonial from '../Home/Testimonial';
 import ServicesBanner from './ServicesBanner';
 import ServicesList from './ServicesList';
 import CtaImages from '../About/CtaImagesGPU';
-import Vcard from '../vcard';
+
 
 
 
 const index = () => {
   return (
     <>
-    {/* <Vcard/> */}
+    
       <Header/>
       <Breadcrumb title="GPU Rendering Servers" subtitle="GPU" />
       <ServicesList/>
