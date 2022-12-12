@@ -8,7 +8,7 @@ import BlogArea from '../Home/BlogArea';
 import Testimonial from '../Home/Testimonial';
 import ServicesBanner from './ServicesBanner';
 import ServicesList from './ServicesList';
-import CtaImages from '../About/CtaImagesGPU';
+import CtaImages from '../About/CtaImagesgpu';
 
 
 
